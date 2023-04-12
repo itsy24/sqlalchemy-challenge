@@ -6,3 +6,4 @@
 
 Overview: Hawaii Climate Anaylsis 
 
+Hawaii meteorological station data analysed to help plan activities for a vacation to Hawaii.
