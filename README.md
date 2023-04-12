@@ -1,8 +1,8 @@
 # sqlalchemy-challenge
 
-## Project :
+## Project : Hawaii Trip Planner
 
 ### Program : Python, sqlalchemy
 
-Overview: 
+Overview: Hawaii Climate Anaylsis 
 
